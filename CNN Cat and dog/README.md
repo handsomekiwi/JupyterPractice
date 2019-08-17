@@ -1,0 +1,8 @@
+# CNN Cat and dog
+## What's the problem
+在train set裡，有一群大小不相同的狗和貓的jpg檔，都已經label好了，
+檔名由編號+label組成
+在test set哩，有一群大小不同已由編號排序的狗和貓的圖片，這邊是kaggle用來給model打分數的
+目標為訓練一個模型來判斷一個圖片是不是狗和貓
+## Reference
+https://ahmedbesbes.com/understanding-deep-convolutional-neural-networks-with-a-practical-use-case-in-tensorflow-and-keras.html
