@@ -6,3 +6,4 @@
 目標為訓練一個模型來判斷一個圖片是不是狗和貓
 ## Reference
 https://ahmedbesbes.com/understanding-deep-convolutional-neural-networks-with-a-practical-use-case-in-tensorflow-and-keras.html
+https://colab.research.google.com/github/google/eng-edu/blob/master/ml/pc/exercises/image_classification_part1.ipynb
